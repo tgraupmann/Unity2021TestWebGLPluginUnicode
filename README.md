@@ -27,3 +27,9 @@ Bug: This Unity WebGL build fails to build with unicode in the WebGL plugin file
 ## Scenes
 
 * [Assets/Scenes/Scene1.unity](Assets/Scenes/Scene1.unity)
+
+## Screenshots
+
+![image_1](images/image_1.png)
+
+![image_2](images/image_2.png)
